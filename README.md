@@ -1,5 +1,5 @@
 # WipeCMOS
-Cette commande permet d'effacer le contenu du CMOS.
+Cette commande, écrit en Turbo Pascal, permet d'effacer le contenu du CMOS.
 
 <h3>Syntaxe</h3>
 
